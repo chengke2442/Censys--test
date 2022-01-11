@@ -6,3 +6,5 @@ The following is the requirement:
 outputs a CSV of the SHA256 fingerprints and validity start and end dates for all trusted (unexpired)
 X.509 certificates associated with the censys.io domain. The query for this is parsed.names:
 censys.io and tags: trusted.
+
+This script is made around library censys-python (https://github.com/Censys/censys-python) 
