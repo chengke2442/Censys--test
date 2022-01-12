@@ -1,4 +1,4 @@
-# Censys--test
+# Censys task
 This is a record for software test of Censys.
 
 The following is the requirement: 
@@ -8,3 +8,10 @@ X.509 certificates associated with the censys.io domain. The query for this is p
 censys.io and tags: trusted.
 
 This script is made around library censys-python (https://github.com/Censys/censys-python) 
+
+# How to run the code
+1. Register on https://censys.io/ to get an account.
+2. Follow the instruction of **Getting Start** in https://github.com/Censys/censys-python.
+3. Open the folder and run 
+  > python test.py
+A CSV file called "result.csv" will appear in the folder, which contains the infomation that is required.
