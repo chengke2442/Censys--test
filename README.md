@@ -17,4 +17,4 @@ This script is made around library censys-python (https://github.com/Censys/cens
 ```
   python test.py
 ```
-A CSV file called "result.csv" will appear in the folder, which contains the infomation that is required.
+   A CSV file called "result.csv" will appear in the folder, which contains the infomation that is required.
