@@ -12,6 +12,9 @@ This script is made around library censys-python (https://github.com/Censys/cens
 # How to run the code
 1. Register on https://censys.io/ to get an account.
 2. Follow the instruction of **Getting Start** in https://github.com/Censys/censys-python.
-3. Open the folder and run 
-  > python test.py
+3. Get the code from this github
+4. Go to the main directory and run 
+```
+  python test.py
+```
 A CSV file called "result.csv" will appear in the folder, which contains the infomation that is required.
